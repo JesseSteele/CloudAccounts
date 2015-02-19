@@ -18,3 +18,12 @@ Future roadmap is low-priority, but may include:
 - Non-multisite use for admins to manage accounts for users
 - Ability for users to change their passwords through this interface
 - Other web apps to be listed
+- Customizable enough so it can be useful if added to the WordPress.org plugin repository
+
+Special Thanks:
+Devin
+http://wptheming.com/2011/08/admin-notices-in-wordpress/
+
+Ronny Kibet
+https://www.youtube.com/watch?v=_nW-h52I7Tg
+ronnykibet.com
