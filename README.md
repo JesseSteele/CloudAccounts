@@ -27,8 +27,16 @@ Future roadmap is low-priority, but may include:
 Special Thanks:
 
 Devin
+http://wptheming.com
+
 http://wptheming.com/2011/08/admin-notices-in-wordpress/
 
 Ronny Kibet
+http://ronnykibet.com
+
 https://www.youtube.com/watch?v=_nW-h52I7Tg
-ronnykibet.com
+
+Vitaly Polonetsky
+http://stackoverflow.com/users/95624/vitaly-polonetsky
+
+http://stackoverflow.com/questions/4554758/how-to-read-if-a-checkbox-is-checked-in-php
