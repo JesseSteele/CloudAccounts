@@ -1,4 +1,4 @@
-# WPverbCloudAccounts
+CloudAccounts for WordPress
 verb.ink Cloud Accounts user details for WordPress.org sites
 
 Description:
