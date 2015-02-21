@@ -6,9 +6,9 @@ This is a simple WordPress plugin intended for WordPress Multisite. It creates a
 
 Installation instructions:
 
-1. Copy the folder "verbcloudaccounts" to your wordpress plugins directory. (usually /wp-content/plugins/)
+1. Copy the folder "cloudaccounts" to your wordpress plugins directory. (usually /wp-content/plugins/)
 
-2. Then enable the plugin "verb.ink Cloud Accounts" from the plugins page in the admin dashboard. It can be network-enabled or enabled per site.
+2. Then enable the plugin "Cloud Accounts" from the plugins page in the admin dashboard. It can be network-enabled or enabled per site.
 
 3. There are no options.
 
