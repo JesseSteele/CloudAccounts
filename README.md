@@ -27,10 +27,13 @@ Future roadmap is low-priority, but may include:
 Special Thanks:
 
 Devin
-http://wptheming.com/2011/08/admin-notices-in-wordpress/
+http://wptheming.com/2011/08/admin-notices-in-wordpress
 
 Ronny Kibet ronnykibet.com
 https://www.youtube.com/watch?v=_nW-h52I7Tg
 
 Vitaly Polonetsky
 http://stackoverflow.com/questions/4554758/how-to-read-if-a-checkbox-is-checked-in-php
+
+Atli
+http://www.dreamincode.net/forums/topic/229971-showhide-text-with-html-no-css-or-java-possible
