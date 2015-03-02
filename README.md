@@ -2,7 +2,9 @@ CloudAccounts for WordPress
 verb.ink Cloud Accounts user details for WordPress.org sites
 
 Description:
-This is a simple WordPress plugin intended for WordPress Multisite. It creates a settings page where superadmins can list usernames for accounts that site admins can view for their reference. The plugin provides a simple page where users can view their usernames for other web apps included in their verb.ink subscription, along with instructions, such as for email, and a place for users to keep personal notes. It also includes built-in dialogs and superadmin-set new password acknowledgement checkboxes.
+This is a simple WordPress plugin intended for WordPress Multisite. It creates a settings page where superadmins can list usernames for accounts that subscribing site admins can view for their reference. The plugin provides a simple page where users/admins can view their usernames for other web apps included in their verb.ink subscription, along with instructions, such as for email, and a place for users to keep personal notes. It also includes built-in top admin bar links for logging in to these accounts.
+
+FYI: This will enter permanent records in the database at two stages because of notifications: The first entry is when the Superadmin enters information a notification will appear and the user will be able to access a different more information on the settings page. The second entry when the user acknowledges the notification. These changes should be benign, but cannot be reset from WP.
 
 Installation instructions:
 
