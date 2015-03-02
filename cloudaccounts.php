@@ -3,7 +3,7 @@ defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /*
 Plugin Name: Cloud Accounts
 Plugin URI: https://github.com/jesselsteele/CloudAccounts
-Description: Uses WordPress edit user profile page to view usernames and other information for other web apps. Created for verb.ink.
+Description: Uses WordPress a "Settings" page to view usernames and other information for other web apps. Created for verb.ink.
 Version: 1.0.0
 Author: Jesse Steele
 Author URI: http://jessesteele.com
@@ -138,7 +138,7 @@ ob_start();?>
     onclick="document.getElementById('email_info').style.display = document.getElementById('email_info').style.display == 'none' ? 'block' : 'none';"
 >
   <p>
-  <h4>[ Click to show email server information... ]</h4>
+  <h4>[ Click to show email client/server information... ]</h4>
   </p>
     <div id="email_info" style="display: none;">
   
@@ -153,6 +153,8 @@ ob_start();?>
   echo $cloudaccounts_options['email_username']; ?><br /><?php
   } ?>
   <strong>Password:</strong> <em>the same password for logging in to webmail</em><br />
+  <br /><strong>Gmail</strong>
+  <br /><strong>To send "from":</strong> > Settings > Accounts and Import > Add another email address you own<br /><strong>SMTP Server:</strong> smtp.verb.ink<br /><strong>Port:</strong> 465 (Secure connection using: SSL)<br /><em>You may choose to treat the email as an alias or not, either way should work.<br /><br />You can use Gmail to control this entire email account by setting up "alias forwarding" in your verb.ink webmail, in settings. Set your Gmail address as the forwarding address and uncheck the box so email will not remain on the server. Of course, this is optional.<br /><br />Once this SMTP is set up in Gmail, you can use this SMTP account to send "from" any other email forarding alias through Gmail. This is an important service of verb.ink as an SMTP account can normally cost $4/month or more.<br />It is not possible to use Gmail for POP with verb.ink mail at this time. But POP works with other email clients, such as Thunderbird. Below is information for normal email client settings...</em><br />
   <br /><strong>IMAP</strong><br />
   <strong>Server hostname:</strong> imap.verb.ink<br /><strong>Port:</strong> 143<br /><strong>SSL:</strong> STARTTLS<br /><strong>Authentication:</strong> Normal password<br />
   <br /><strong>POP3</strong><br />
@@ -173,6 +175,9 @@ ob_start();?>
   </p>
   <p>
   <em>If you have a $2 subscription, then we will allow your Inbox to slowly take more email up to 10GB (not all at once, you must take at least three years to max out or we'll want to know why.) We may increase this even more, several years into the future. With this, you can use IMAP on your email clients, which will sync your email with the server, you can then view all your email on the webserver and any email clients that you set up, and space won't be as big of a problem. Even after 10 years a lots of email, you probably won't even fill up 5GB. If you don't plan to receive email at your verb.ink email address, then the $1 subscription should be fine and you can still use it to send email via SMTP.</em>
+  </p>
+  <p>
+  <em>As per the conditions, remember that, by using this service, you agree not to spam. You are allowed "normal" bandwidth and system resources for email that a normal or an "above average" productive individual may use. If we discover that you are using this account to send massive amounts of email, as a clear violation of the terms, you could be billed an additional $50 or twice the extra costs, whichever is higher. If you are a normal, cool person who doesn't spam, even though you may be active on the web with business contacts, this shouldn't ever be a problem. For massive email campaigns, we encourage you to look into MailChimp or contact us to purchase a custom plan for large-scale commercial use. We may be very helpful for that if you are up front about your goals. Remember, verb.ink is for single-individual high-productivity use, whether for business, non-profit, or personal.</em>
   </p>
   
 </div>
