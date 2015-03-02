@@ -17,7 +17,7 @@ Installation instructions:
 4. Only Multisite Superadmins can enter information in each site's "settings" page. Only site admins can view the information and make notes that are not visible from the superadmin view.
 
 Notes:
-This is not in the main WordPress repository because it is custom written specifically for verb.ink. However, in being consistent with the verb.ink policy of being able to duplicate one's entire account, the plugin is made available here.
+This is not in the main WordPress repository because it is custom written specifically for verb.ink. However, in being consistent with the verb.ink policy of being able to duplicate one's entire account, the plugin is made available here. This plugin is planned to become obsolete in the verb.ink roadmap.
 
 Future roadmap is low-priority, but may include:
 - Quick access dropdown from admin bar for site admins
