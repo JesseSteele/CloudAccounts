@@ -37,3 +37,6 @@ http://stackoverflow.com/questions/4554758/how-to-read-if-a-checkbox-is-checked-
 
 Atli
 http://www.dreamincode.net/forums/topic/229971-showhide-text-with-html-no-css-or-java-possible
+
+Twitter @wpLifeGuard
+http://wplifeguard.com/how-to-add-links-to-wordpress-3-3s-admin-bar
