@@ -37,7 +37,7 @@ function add_toolbar_items($admin_bar){
 	$admin_bar->add_menu( array(
 		'id'    => 'cloudaccountslogin-cloud',
 		'title' => 'Cloud',
-		'href'  => 'https://cloud.verb.ink',	
+		'href'  => 'https://verb.blue',	
 		'meta'  => array(
 			'title' => __('Cloud login | cloud.verb.ink'),
 			'target' => __('_blank'),
@@ -212,7 +212,7 @@ ob_start();?>
   
   <p>
   <strong>Login URL: </strong>
-  <a target="_blank" href="https://cloud.verb.ink">cloud.verb.ink</a>
+  <a target="_blank" href="https://verb.blue">verb.blue</a>
   </p>  
 
 <?php
