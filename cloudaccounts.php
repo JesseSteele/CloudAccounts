@@ -165,16 +165,7 @@ ob_start();?>
   <em>*About POP3 and IMAP: POP3 pulls email from the server and deletes mail from the server if you configure your client to do so. IMAP will sync email between your client and the server, keeping a copy of your email in both places.</em>
   </p>
   <p>
-  <em>If you are using a $1 subscription, then your inbox is very small and you should either:</em>
-  </p>
-  <p>
-  <em>A. set up at least one email client with POP3 to keep the email off the server so your Inbox doesn't get full or</em>
-  </p>
-  <p>
-  <em>B. login to webmail at <a target="_blank" href="https://verb.email">verb.email</a>, go to settings, and set up a forwarding alias email address that your email will go to and uncheck the box so that email does not stay on the server. (This is probably the best option, you can still send mail using SMTP.)</em>
-  </p>
-  <p>
-  <em>If you have a $2 InfiniteVerb&trade; subscription, then we will allow your Inbox to slowly take more email up to 10GB (not all at once, you must take at least three years to max out or we'll want to know why.) We may increase this even more, several years into the future. With this, you can use IMAP on your email clients, which will sync your email with the server, you can then view all your email on the webserver and any email clients that you set up, and space won't be as big of a problem. Even after 10 years a lots of email, you probably won't even fill up 5GB. If you don't plan to receive email at your verb.ink email address, then the $1 subscription should be fine and you can still use it to send email via SMTP.</em>
+  It is a good idea to set up at least one email client with POP3/POP to keep the email off the server so your Inbox doesn't get full.
   </p>
   <p>
   <em>As per the conditions, remember that, by using this service, you agree not to spam. You are allowed "normal" bandwidth and system resources for email that a normal or an "above average" productive individual may use. If we discover that you are using this account to send massive amounts of email, as a clear violation of the terms, you could be billed an additional $50 or twice the extra costs, whichever is higher. If you are a normal, cool person who doesn't spam, even though you may be active on the web with business contacts, this shouldn't ever be a problem. For massive email campaigns, we encourage you to look into MailChimp or contact us to purchase a custom plan for large-scale commercial use. We may be very helpful for that if you are up front about your goals. Remember, verb.ink is for single-individual high-productivity use, whether for business, non-profit, or personal.</em>
